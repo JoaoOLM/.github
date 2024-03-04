@@ -7,3 +7,6 @@
 
 
 [![Ativo](https://img.shields.io/badge/Ativo-Check-brightgreen?logo=data:image/svg+xml;base64,aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL21hdGVyaWFsaWNvbnMvY2hlY2suc3Zn)]
+
+
+[![Ativo](https://img.shields.io/badge/Ativo-Check-brightgreen?logo=data:image/svg+xml;base64,aHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS9Kb2FvT0xNL3Rlc3RlL21haW4vYXNzZXRzL2NoZWNrX0ZJTEwwX3dnZ3Q0MDBfR1JBRDAfb3BzejI0LnN2Zw==)]
