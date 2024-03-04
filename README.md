@@ -1,12 +1,6 @@
 # teste
 
-![Static Badge](https://img.shields.io/badge/Ativo-green)
-![Static Badge](https://img.shields.io/badge/Parado-gray)
-![Static Badge](https://img.shields.io/badge/Finalizado-blue)
 [![Ativo](https://img.shields.io/badge/Ativo-%E2%9C%93-brightgreen)](https://sua-url-aqui)
 
+![Static Badge](https://img.shields.io/badge/%E2%9C%85-Ativo-green?logoColor=green&labelColor=green)
 
-[![Ativo](https://img.shields.io/badge/Ativo-Check-brightgreen?logo=data:image/svg+xml;base64,aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL21hdGVyaWFsaWNvbnMvY2hlY2suc3Zn)]
-
-
-[![Ativo](https://img.shields.io/badge/Ativo-Check-brightgreen?logo=data:image/svg+xml;base64,aHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS9Kb2FvT0xNL3Rlc3RlL21haW4vYXNzZXRzL2NoZWNrX0ZJTEwwX3dnZ3Q0MDBfR1JBRDAfb3BzejI0LnN2Zw==)]
