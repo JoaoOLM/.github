@@ -11,3 +11,6 @@
 ![Static Badge](https://img.shields.io/badge/Ativo-green)
 ![Static Badge](https://img.shields.io/badge/Parado-gray)
 ![Static Badge](https://img.shields.io/badge/Finalizado-blue)
+
+![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&labelColor=yellow)
+![C++](https://img.shields.io/badge/c++-DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
