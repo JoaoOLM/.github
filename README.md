@@ -10,3 +10,4 @@
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-DD0031.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
